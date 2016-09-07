@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.Notes" >
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/nlgo1"
+        android:label="Notes"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name="com.example.Notes.MainActivity"
+            android:label="Notes" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        // Content provider declared here
+        <provider
+            android:name="com.example.Notes.NotesProvider"
+            android:authorities="com.example.Notes.notesprovider"
+            android:exported="false" />
+
+        <activity
+            android:name="com.example.Notes.EditorActivity"
+            android:label="@string/title_activity_editor"
+            android:parentActivityName="com.example.Notes.MainActivity" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.Notes.MainActivity" />
+        </activity>
+    </application>
+
+</manifest>

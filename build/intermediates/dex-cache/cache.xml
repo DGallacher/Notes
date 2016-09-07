@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/Danny/AndroidStudioProjects/Notes1/Notes/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="22.0.0"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="/Users/Danny/AndroidStudioProjects/Notes1/Notes/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-22.0.0_a6f5d1579d5fb9b6079a6c6d34635f7355224cab/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Danny/AndroidStudioProjects/Notes1/Notes/build/intermediates/exploded-aar/com.github.markushi/circlebutton/1.1/jars/classes.jar"
+        jumboMode="true"
+        revision="22.0.0"
+        sha1="ebe3b1f14fa79ba3cd1588acda4e6517ee9fe611">
+        <dex dex="/Users/Danny/AndroidStudioProjects/Notes1/Notes/build/intermediates/transforms/dex/debug/folders/1000/10/com.github.markushi-circlebutton-1.1_ea7075373ced2a85b6e5de99d9d02eceec679388/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Danny/AndroidStudioProjects/Notes1/Notes/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="22.0.0"
+        sha1="6cd2d8f7176e6c04845133ac2f68d579ce5e88fa">
+        <dex dex="/Users/Danny/AndroidStudioProjects/Notes1/Notes/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_5d1895e9e114b083495bb9aa4c0a84b5e062d192/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Danny/AndroidStudioProjects/Notes1/Notes/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="22.0.0"
+        sha1="a0119ff06fad946085b4d58e22f3286ee05ad21a">
+        <dex dex="/Users/Danny/AndroidStudioProjects/Notes1/Notes/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_c492d28e7609b89ac59a0e40f1474251ffdb627b/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Danny/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/22.0.0/support-annotations-22.0.0.jar"
+        jumboMode="true"
+        revision="22.0.0"
+        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
+        <dex dex="/Users/Danny/AndroidStudioProjects/Notes1/Notes/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-22.0.0_fdef06572f1c2601b50fe60bf44ff6e8193c17e3/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Danny/AndroidStudioProjects/Notes1/Notes/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/jars/libs/internal_impl-22.0.0.jar"
+        jumboMode="true"
+        revision="22.0.0"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="/Users/Danny/AndroidStudioProjects/Notes1/Notes/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-22.0.0_af056a3d17e580ff4a9697fe550cb6329c765014/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Danny/AndroidStudioProjects/Notes1/Notes/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="22.0.0"
+        sha1="d84409890828e07d344a3b9b1da545dba9897b51">
+        <dex dex="/Users/Danny/AndroidStudioProjects/Notes1/Notes/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-22.0.0_e7c8b66fcd2cf4b04e101d046362628be4c433c4/classes.dex" />
+    </item>
+
+</items>
